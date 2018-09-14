@@ -89,3 +89,5 @@ body div#wall div.parent div > #tag-7.slick {
   z-index: 1;
   display: block;
 }
+
+body div#wall div.parent div:first-child > #tag-7[class="slick"]
