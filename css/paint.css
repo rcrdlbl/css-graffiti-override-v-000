@@ -60,6 +60,10 @@ div#wall #tag-3[class="slick wicked"] {
   display: block;
 }
 
+#wall div #tag-4 {
+  display: none;
+}
+
 div#wall .parent #tag-5.slick {
   background: url(../images/tag-5.png) no-repeat;
   z-index: 3;
