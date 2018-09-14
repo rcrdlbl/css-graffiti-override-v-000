@@ -50,7 +50,7 @@ div#wall #tag-3.slick {
   display: block;
 }
 
-div#wall #tag-3."slick wicked" {
+div#wall #tag-3[class="slick wicked"] {
   display: none;
 }
 
